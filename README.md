@@ -1,7 +1,7 @@
 # BCH-design
 Updated Design Assets for Bitcoin Cash
 
-Hey everyone - did some redesigns for BCH!
+Here is the final consensus for the BCH logo. There are some old designs in this repository, but this one will be found under "new green bch"
 
 ![new green bch-04](https://user-images.githubusercontent.com/33505612/35009466-876ebeb2-fab4-11e7-805a-ac1fa478c207.png)
 
